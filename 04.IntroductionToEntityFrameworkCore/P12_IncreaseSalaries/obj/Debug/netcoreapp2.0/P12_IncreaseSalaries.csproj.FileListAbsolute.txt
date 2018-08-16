@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P12_IncreaseSalaries.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P12_IncreaseSalaries.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P12_IncreaseSalaries.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P12_IncreaseSalaries.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P12_IncreaseSalaries.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P12_IncreaseSalaries\obj\Debug\netcoreapp2.0\P12_IncreaseSalaries.pdb

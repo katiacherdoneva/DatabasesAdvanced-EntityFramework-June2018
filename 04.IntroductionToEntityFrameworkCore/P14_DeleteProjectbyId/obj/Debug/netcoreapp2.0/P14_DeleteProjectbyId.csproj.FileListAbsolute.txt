@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P14_DeleteProjectbyId.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P14_DeleteProjectbyId.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P14_DeleteProjectbyId.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P14_DeleteProjectbyId.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P14_DeleteProjectbyId.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P14_DeleteProjectbyId\obj\Debug\netcoreapp2.0\P14_DeleteProjectbyId.pdb

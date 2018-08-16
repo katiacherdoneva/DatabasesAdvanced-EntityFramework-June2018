@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeesFullInformation.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeesFullInformation.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeesFullInformation.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeesFullInformation.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeesFullInformation.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P03_EmployeesFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeesFullInformation.pdb

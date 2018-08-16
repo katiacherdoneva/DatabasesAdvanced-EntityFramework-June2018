@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.runtimeconfig.json
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.pdb

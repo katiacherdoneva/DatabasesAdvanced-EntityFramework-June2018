@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.deps.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.runtimeconfig.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.pdb
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.pdb

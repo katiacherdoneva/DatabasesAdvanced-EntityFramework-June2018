@@ -1,0 +1,14 @@
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.deps.json
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.pdb
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Data.pdb
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.AssemblyInfo.cs
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.csproj.CopyComplete
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.dll
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\P01_BillsPaymentSystem.Initializer.pdb

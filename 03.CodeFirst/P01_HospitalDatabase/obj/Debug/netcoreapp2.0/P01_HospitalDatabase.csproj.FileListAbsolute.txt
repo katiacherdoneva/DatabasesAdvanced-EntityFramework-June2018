@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\03.CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs

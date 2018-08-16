@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.deps.json
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.runtimeconfig.json
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.dll
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.pdb
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.AssemblyInfo.cs
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.csproj.CopyComplete
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.dll
+C:\Users\User\source\repos\05.EntityRelations\P02_SeedSomeDataintheDatabase\obj\Debug\netcoreapp2.0\P02_SeedSomeDataintheDatabase.pdb

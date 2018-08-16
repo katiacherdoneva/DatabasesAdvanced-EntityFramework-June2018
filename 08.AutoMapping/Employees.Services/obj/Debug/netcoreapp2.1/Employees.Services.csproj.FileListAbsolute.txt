@@ -1,0 +1,14 @@
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Services.deps.json
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Services.dll
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Services.pdb
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Data.dll
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Models.dll
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Data.pdb
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\bin\Debug\netcoreapp2.1\Employees.Models.pdb
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.AssemblyInfo.cs
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.csproj.CopyComplete
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.dll
+C:\Users\Катя\source\repos\08.AutoMapping\Employees.Services\obj\Debug\netcoreapp2.1\Employees.Services.pdb

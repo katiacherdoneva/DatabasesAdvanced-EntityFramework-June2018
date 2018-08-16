@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.deps.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.runtimeconfig.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.pdb
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.pdb

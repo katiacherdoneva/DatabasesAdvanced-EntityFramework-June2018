@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P15_RemoveTowns.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P15_RemoveTowns.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P15_RemoveTowns.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P15_RemoveTowns.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P15_RemoveTowns.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P15_RemoveTowns\obj\Debug\netcoreapp2.0\P15_RemoveTowns.pdb

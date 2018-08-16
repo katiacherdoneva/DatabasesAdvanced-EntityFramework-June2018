@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\bin\Debug\netcoreapp2.0\04.AddMinion.deps.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\bin\Debug\netcoreapp2.0\04.AddMinion.runtimeconfig.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\bin\Debug\netcoreapp2.0\04.AddMinion.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\bin\Debug\netcoreapp2.0\04.AddMinion.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\bin\Debug\netcoreapp2.0\04.AddMinion.pdb
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\04.AddMinion\obj\Debug\netcoreapp2.0\04.AddMinion.pdb

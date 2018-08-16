@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\source\repos\03.CodeFirst\P01_Hospital Database\P01_HospitalDatabase.Data.csproj" />
+    <ProjectReference Include="..\P01_Hospital Database.Data\P01_HospitalDatabase.Data.csproj" />
+    <ProjectReference Include="..\P01_Hospital Database\P01_HospitalDatabase.Data.csproj" />
+  </ItemGroup>
+
+</Project>

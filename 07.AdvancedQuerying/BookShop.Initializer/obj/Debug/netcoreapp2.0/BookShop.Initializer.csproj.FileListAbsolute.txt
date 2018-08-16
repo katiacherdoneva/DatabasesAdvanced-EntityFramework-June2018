@@ -1,0 +1,14 @@
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojAssemblyReference.cache
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CopyComplete
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Катя\Downloads\Нова папка\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb

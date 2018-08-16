@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P07_EmployeesandProjects.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P07_EmployeesandProjects.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P07_EmployeesandProjects.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P07_EmployeesandProjects.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P07_EmployeesandProjects.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P07_EmployeesandProjects\obj\Debug\netcoreapp2.0\P07_EmployeesandProjects.pdb

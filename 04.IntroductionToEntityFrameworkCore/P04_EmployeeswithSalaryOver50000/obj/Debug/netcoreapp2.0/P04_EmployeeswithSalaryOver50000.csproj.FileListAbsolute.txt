@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.deps.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.runtimeconfig.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.AssemblyInfo.cs
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.csproj.CopyComplete
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.dll
+C:\Users\User\source\repos\03.IntroductionToEntityFrameworkCore\P04_EmployeeswithSalaryOver50000\obj\Debug\netcoreapp2.0\P04_EmployeeswithSalaryOver50000.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\bin\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.deps.json
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\bin\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.dll
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\bin\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.pdb
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.dll
+C:\Users\User\source\repos\03.CodeFirst\P01_Hospital Database.Data\obj\Debug\netcoreapp2.0\P01_P02_HospitalDatabase.Data.pdb

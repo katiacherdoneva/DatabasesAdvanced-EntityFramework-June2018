@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\bin\Debug\netcoreapp2.0\01.IntroductionToDBApps.deps.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\bin\Debug\netcoreapp2.0\01.IntroductionToDBApps.runtimeconfig.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\bin\Debug\netcoreapp2.0\01.IntroductionToDBApps.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\bin\Debug\netcoreapp2.0\01.IntroductionToDBApps.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\bin\Debug\netcoreapp2.0\01.IntroductionToDBApps.pdb
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.dll
+C:\Users\Катя\source\repos\01.IntroductionToDBApps\01.IntroductionToDBApps\obj\Debug\netcoreapp2.0\01.IntroductionToDBApps.pdb

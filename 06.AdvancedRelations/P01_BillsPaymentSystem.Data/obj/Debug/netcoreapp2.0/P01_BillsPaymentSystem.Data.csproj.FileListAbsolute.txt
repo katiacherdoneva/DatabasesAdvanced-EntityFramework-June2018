@@ -1,0 +1,4 @@
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Users\Катя\source\repos\06.AdvancedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.csprojAssemblyReference.cache
